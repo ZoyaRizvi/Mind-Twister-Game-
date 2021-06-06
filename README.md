@@ -2,6 +2,7 @@
 Our Project name is “Mind Twister” 
 It is made by using Python module Tkinter
 It has 2 games
+
 •	Color game
 •	Number guessing game
 You can play these games to refresh your mind
